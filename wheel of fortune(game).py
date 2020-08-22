@@ -1,7 +1,5 @@
-'''
-# PASTE YOUR WOFPlayer CLASS (from part A) HERE
-# PASTE YOUR WOFHumanPlayer CLASS (from part B) HERE
-# PASTE YOUR WOFComputerPlayer CLASS (from part C) HERE
+
+
 class WOFPlayer():
     def __init__(self, name, difficulty):
         self.name=name
